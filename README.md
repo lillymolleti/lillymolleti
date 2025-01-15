@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lillymolleti
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently App Development using React Native
+- - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me ... lillymolleti492002@gmail.com
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I Love to Google about Google!
